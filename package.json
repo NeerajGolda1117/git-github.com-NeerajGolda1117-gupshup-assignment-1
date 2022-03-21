@@ -1,0 +1,31 @@
+{
+  "name": "text-to-video-utility",
+  "version": "1.0.0",
+  "description": "First Freelance project to convert a text to video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraj Golda",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^1.4.1",
+    "async": "^3.2.3",
+    "audio-effects": "^1.2.4",
+    "babel-plugin-goto": "^0.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "ffcreator": "^6.4.7",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "gtts": "^0.2.1",
+    "html-to-gif": "^0.0.4",
+    "node-gtts": "^2.0.2",
+    "phantomjs": "^2.1.7",
+    "phantomjs-prebuilt": "^2.1.16",
+    "puppeteer": "^13.3.2",
+    "say": "^0.16.0",
+    "videoshow": "^0.1.12"
+  }
+}
